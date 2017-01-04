@@ -1,4 +1,4 @@
 # TIS-100-Solutions
 
-Probably pretty dumb ones I'm sure :)
+Not that good cycles I know :)
 I am trying to get better.
