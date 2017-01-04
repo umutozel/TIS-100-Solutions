@@ -1,1 +1,0 @@
-MOV LEFT, DOWN
